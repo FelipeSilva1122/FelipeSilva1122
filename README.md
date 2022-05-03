@@ -1,6 +1,6 @@
 ## 👨‍💻 Olá, meu nome é <strong>{Felipe Silva}!</strong>
 
-> Estudante de Ciência da Computação, aprendendo cada dia mais sobre tecnoligia e melhorando minhas softskills, tetando dar o melhor de mim.
+> Estudante de Ciência da Computação, aprendendo cada dia mais sobre tecnoligia e melhorando minhas softskills, tentando dar o melhor de mim.
 
 💬 felipe.128costa@gmail.com
 
