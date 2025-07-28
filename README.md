@@ -1,9 +1,13 @@
 ## 👨‍💻 Olá, meu nome é <strong>{Felipe Silva}!</strong>
 
-> 💻 Desenvolvedor Web/Mobile \\  
-👨‍🎓 Estudante de Ciência da Computação (7º período) \\  
-🎯 Foco em JavaScript, Node.js, React e React Native \\  
-📁 Portfólio com projetos full stack e interfaces responsivas \\  
+> 💻 Desenvolvedor Web/Mobile
+
+👨‍🎓 Estudante de Ciência da Computação (7º período)
+
+🎯 Foco em JavaScript, Node.js, React e React Native
+
+📁 Portfólio com projetos full stack e interfaces responsivas
+
 🚀 Apaixonado por tecnologia, sempre aprendendo e criando soluções práticas.
 
 💬 felipe.128costa@gmail.com
